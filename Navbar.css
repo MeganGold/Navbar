@@ -42,7 +42,6 @@ display: flex;
 form > label input {
     padding: 10px;
     border: none;
-    vertical-align: bottom;
     line-height: 16px;
 }
 
@@ -51,7 +50,6 @@ form > label input {
     padding: 10px;
     color: #222;
     background-color: #fff;
-    vertical-align: bottom;
     line-height: 8px;
 }
 
@@ -79,4 +77,4 @@ form > label input {
 
 
 
-}
+
