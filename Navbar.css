@@ -35,11 +35,48 @@ nav > ul li {
 color: #959594;
 }
 
-form > label input {
-    padding: 10px;
+form {
+display: flex;
 }
 
- submit i {
-    font-size: 30px;
+form > label input {
+    padding: 10px;
+    border: none;
+    vertical-align: bottom;
+    line-height: 16px;
+}
+
+.fas {
+    font-size: 16px;
+    padding: 10px;
     color: #222;
+    background-color: #fff;
+    vertical-align: bottom;
+    line-height: 8px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 }
