@@ -31,11 +31,11 @@ nav > ul li {
     margin-right: 35px;
 }
 
-nav > ul li:hover {
+ ul > li a:hover {
 color: #959594;
 }
 
-form > input {
+form > label input {
     padding: 10px;
 }
 
